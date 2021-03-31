@@ -1,2 +1,15 @@
 User-agent: *
-Disallow: /version/
+Disallow: /
+
+<!--
+    ___    ____  ____  ______       __________  ____  __   _____
+   /   |  / __ \/ __ \/  _/ /      / ____/ __ \/ __ \/ /  / ___/
+  / /| | / /_/ / /_/ // // /      / /_  / / / / / / / /   \__ \
+ / ___ |/ ____/ _, _// // /___   / __/ / /_/ / /_/ / /______/ /
+/_/  |_/_/   /_/ |_/___/_____/  /_/    \____/\____/_____/____/
+
+React is NOT going closed-source.  This is a prank, from Sean Reid, sean@torchcodelab.com
+
+To my students: It pays to read the source code!!! Sometimes, there are fun things in the comments!
+-->
+
